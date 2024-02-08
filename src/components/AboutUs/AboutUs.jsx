@@ -11,13 +11,13 @@ export default function AboutUs() {
                         <img src={Rectangle2} alt="asd" />
                     </div>
                 </div>
-                <div className="blue flex flex-col mb-20 lg:mb-0 text-center lg:text-end gap-y-3 lg:w-[35%] w-[100%] z-20">
+                <div className="blue flex flex-col mb-24 lg:mb-0 text-center lg:text-end gap-y-3 lg:w-[35%] w-[100%] z-20">
                     <p className="sm:text-[60px] text-[50px] font-[900]">Where</p>
                     <p className="ms:text-[18px] font-[700] leading-[24px]">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                 </div>
 
             </div>
-            <div className="flex absolute mt-3 bottom-7 ">
+            <div className="flex absolute  bottom-7 ">
                 <button className="rounded-full px-8 py-3 bg-[#EEC04B] text-[#515151] text-[24px] font-[700] ">Experts</button>
 
             </div>
