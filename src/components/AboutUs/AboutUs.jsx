@@ -17,7 +17,7 @@ export default function AboutUs() {
                 </div>
 
             </div>
-            <div className="flex absolute bottom-7 ">
+            <div className="flex absolute mt-3 bottom-7 ">
                 <button className="rounded-full px-8 py-3 bg-[#EEC04B] text-[#515151] text-[24px] font-[700] ">Experts</button>
 
             </div>
